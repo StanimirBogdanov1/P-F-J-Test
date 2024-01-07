@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Equal_Sums_Even_Odd_Position_02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
-
+// DEMO TEST FOR PULL 
 
     int input=Integer.parseInt(scanner.nextLine());
     int input2=Integer.parseInt(scanner.nextLine());
