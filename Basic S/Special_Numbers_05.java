@@ -8,7 +8,7 @@ public class Special_Numbers_05 {
 
 
         for(int i=1111;i<=9999;i++) {
-            String intToString = Integer.toString(i);
+            String intToString = Integer.toString(i); 
 
             boolean yesOrNo = true;
 
@@ -22,7 +22,7 @@ public class Special_Numbers_05 {
                     break;
                 }
 
-                if (number % stringToInt != 0) {
+                if (number % stringToInt != 0) {   
 
                     yesOrNo = false;
                     break;
